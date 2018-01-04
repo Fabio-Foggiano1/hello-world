@@ -1,4 +1,4 @@
 # hello-world
 hello-world!
-is it all fine outthere ? 
+is it all fine out there ? 
 C U soon! 
